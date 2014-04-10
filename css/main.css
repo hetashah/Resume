@@ -1,0 +1,28 @@
+#b{
+	background-color:blue;
+}
+
+body{
+	border:1px solid black;
+}
+
+#img-center{
+	position:relative;
+	left:50%;
+	margin-top:50px;
+	margin-bottom: 50px;
+	margin-left: -125px;
+	width:300px;
+	border: 5px solid red;
+}
+
+.displaynone{
+	overflow:auto;
+	display:none
+}
+
+#header{
+	margin-top:30px;
+	font-size: 40px;
+	font-family: 'Henny Penny'
+}
