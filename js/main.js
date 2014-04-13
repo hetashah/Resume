@@ -11,6 +11,7 @@ $('#myTab li a').click(function (e) {
   	//$('div.tab-content').siblings().hide();  	
 })
 
+
 /*$('#myTab').on('click','li',function(e){
 	alert(e.target);
 	
