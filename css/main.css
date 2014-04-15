@@ -47,6 +47,8 @@ div{
 
 .imageRight{
 	float:right;
+	width:200px;
+	height: 100px;
 }
 
 .borderreddotted{
